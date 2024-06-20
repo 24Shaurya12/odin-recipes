@@ -1,0 +1,1 @@
+Just learned the very basics of HTML, let's see how my first odin project turns out.
